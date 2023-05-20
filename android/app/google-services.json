@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113359343388",
+    "project_id": "cantinaetec-14d40",
+    "storage_bucket": "cantinaetec-14d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113359343388:android:528f88919d24e226e0f4d9",
+        "android_client_info": {
+          "package_name": "br.com.etec.cantina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113359343388-j3smv1vtq6vlt93co6fetrlf551hoev5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANyCOC0CgJCSpUpy86f71_dw4-ofTAdCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113359343388-j3smv1vtq6vlt93co6fetrlf551hoev5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

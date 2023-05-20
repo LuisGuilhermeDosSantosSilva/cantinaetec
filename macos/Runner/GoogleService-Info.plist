@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>113359343388-rn315v717rbrftkbq4fnq4d34br66beb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.113359343388-rn315v717rbrftkbq4fnq4d34br66beb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAJhzSR3A35l9ZTJwsfe9Otk18LruJUz0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>113359343388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.etec.cantina</string>
+	<key>PROJECT_ID</key>
+	<string>cantinaetec-14d40</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cantinaetec-14d40.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:113359343388:ios:6745a96ec4e5eac9e0f4d9</string>
+</dict>
+</plist>
