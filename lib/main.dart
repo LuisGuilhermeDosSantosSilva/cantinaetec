@@ -1,21 +1,16 @@
+import 'package:EtecFood/root.dart';
+import 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart';
 
-void main(){
-  runApp(cantinafood());
+void main() {
+  runApp(MyApp());
 }
 
-class cantinafood extends StatelessWidget {
-  const cantinafood({super.key});
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: "CantinaFood",
-      theme: ThemeData.dark(),
-      home: Container(
-        child: Text("CantinaFood",style: TextStyle(color:Colors.blue, fontSize: 100,  ), textAlign: TextAlign.center,),
-      ),
-    );
+    return Root();
   }
 }
-
