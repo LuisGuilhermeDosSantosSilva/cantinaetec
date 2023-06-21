@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'login.dart';
+
 class Root extends StatelessWidget {
   const Root({super.key});
 
@@ -7,8 +9,10 @@ class Root extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "EtecFood",
-      initialRoute: "/Login",
-      routes: {},
+      initialRoute: "/",
+      routes: {
+        "/": (context) => Login(),
+      },
     );
   }
 }
